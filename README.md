@@ -33,9 +33,11 @@ This project is a fusion of meme culture and serious decentralization. No pre-mi
 
 This project is experimental and community-led. It does not constitute financial advice. Always DYOR (Do Your Own Research) before participating.
 
+Let’s ride the blockchain tide with shrimp-sized resilience 🦐🌊
+
 ---
 
-Let’s ride the blockchain tide with shrimp-sized resilience 🦐🌊
+
 
 
 MIT License
