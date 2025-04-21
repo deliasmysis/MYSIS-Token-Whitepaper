@@ -1,41 +1,26 @@
-# 🦐 MYSIS Token - Decentralized by Design, Driven by Culture
 
-**MYSIS** is a meme-powered BEP-20 token launched on the BNB Smart Chain, inspired by the mysid shrimp — a small but resilient sea creature.
+# 🦐 MYSIS Token
 
-This project is a fusion of meme culture and serious decentralization. No pre-mines. No venture capital. No tax. Just pure, transparent community-driven liquidity.
+MYSIS is a meme-powered BEP-20 token launched on the BNB Smart Chain. Inspired by the mysid shrimp, the token embraces decentralization, humor, and community-driven development.
 
----
+## 🔹 Tokenomics
 
-## 🧬 Tokenomics
+- **Total Supply**: 2,000,000,000 MYSIS
+- **60%** Liquidity Pool (half locked for 2 years)
+- **25%** Airdrops
+- **5%** Community & Marketing
+- **5%** Founder Reserve (locked until 2027)
+- **5%** Team Wallet (locked for 2 years)
 
-| Category                 | Allocation| Amount (MYSIS)    | Description                                         |
-|--------------------------|------------|--------------------|---------------------------------------------------|
-| Liquidity Pool           | 60%        | 1,200,000,000      | 600.1M locked for 2 years via trusted locker      |
-| Airdrop                  | 25%        | 500,000,000        | Distributed via verified community campaigns      |
-| Marketing & Partnerships | 5%         | 100,000,000        | For growth, listings, and awareness               |
-| Founder Reserve          | 5%         | 100,000,000        | Locked reserve for sustainability                 |
-| Team Wallet (Locked)     | 5%         | 100,000,000        | Locked for 2 years to align long-term vision      |
+## 📄 Whitepaper  
+📥 [Download the Whitepaper (PDF)](https://github.com/deliasmysis/MYSIS-Token-Whitepaper/raw/main/MYSIS-Token-Whitepaper.pdf)
 
----
+## 🧭 Zealy Questboard  
+Earn airdrops by completing community quests:  
+🔗 https://zealy.io/cw/mysistoken/questboard
 
-## 📜 Whitepaper  
-➡️ [Read the Whitepaper (PDF)](https://raw.githubusercontent.com/deliasmysis/MYSIS-Token-Whitepaper/refs/heads/main/MYSIS-Token-Whitepaper.pdf)
-
-## Official Links
-- 🌐 All Link : [https://linktr.ee/mysistoken](https://linktr.ee/mysistoken)
-- 🔗 Website  :  [https://www.mysistoken.org](https://www.mysistoken.org)  
-- 📄 Smart Contract: `0xF809218363cC95f296B5dD150a17136E2ad200fF`  
-- 💬 Telegram : [t.me/mysistoken](https://t.me/mysistoken)  
-- 🐦    X     : [https://x.com/MysisToken](https://x.com/MysisToken)  
----
-
-## ⚠️ Disclaimer
-
-This project is experimental and community-led. It does not constitute financial advice. Always DYOR (Do Your Own Research) before participating.
-
-Let’s ride the blockchain tide with shrimp-sized resilience 🦐🌊
-
----
+## 🌐 Website  
+https://www.mysistoken.org
 
 ## 📜 License  
-This Project Is Licensed Under The MIT License — See The [LICENSE](LICENSE) File.
+This project is licensed under the MIT License — see the [LICENSE](LICENSE) file.
