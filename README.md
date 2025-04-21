@@ -28,8 +28,7 @@ This project is a fusion of meme culture and serious decentralization. No pre-mi
 - 🔗 Website: [https://www.mysistoken.org](https://www.mysistoken.org)  
 - 📄 Smart Contract: `0xF809218363cC95f296B5dD150a17136E2ad200fF`  
 - 💬 Telegram: [t.me/mysistoken](https://t.me/mysistoken)  
-- 🐦 Twitter (X): [@mysis_tokenofficial](https://twitter.com/mysis_tokenofficial)  
-
+- 🐦 Twitter (X): [https://x.com/MysisToken](https://x.com/MysisToken)  
 ---
 
 ## ⚠️ Disclaimer
