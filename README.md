@@ -19,9 +19,7 @@ This project is a fusion of meme culture and serious decentralization. No pre-mi
 ---
 
 ## 📜 Whitepaper  
-➡️ [Read the Whitepaper (PDF)](https://raw.githubusercontent.com/deliasmysis/MYSIS-Token-Whitepaper/refs/heads/main/README.md)
-
----
+➡️ [Read the Whitepaper (PDF)](https://raw.githubusercontent.com/deliasmysis/MYSIS-Token-Whitepaper/refs/heads/main/MYSIS-Token-Whitepaper.pdf)
 
 ## Official Links
 - 🌐 All Link : [https://linktr.ee/mysistoken](https://linktr.ee/mysistoken)
