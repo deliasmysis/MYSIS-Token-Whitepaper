@@ -23,4 +23,4 @@ Earn airdrops by completing community quests:
 https://www.mysistoken.org
 
 ## 📜 License  
-This project is licensed under the MIT License — see the [LICENSE](LICENSE) file.
+This project is licensed under the MIT License — see the [LICENSE](LICENSE) file. 
